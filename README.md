@@ -31,3 +31,12 @@ Matplotlib (pip install matplotlib)
 Seaborn (pip install seaborn)
 Sklearn (pip install sklearn)
 mpl_toolkits (pip install mpl_toolkits)
+
+
+## PROJECT - DEMO 
+
+![image](https://github.com/user-attachments/assets/62f54202-3c5b-44bb-940e-afb4edd6838c)
+
+![image](https://github.com/user-attachments/assets/132f8a53-f90d-4fb4-a9ad-4e3fb73d0450)
+
+![image](https://github.com/user-attachments/assets/3a63ee04-4b21-4c0e-8a45-8026b3d57093)
