@@ -1,6 +1,7 @@
 ## Customer Segmentation using Machine Learning
 
 ## Objective
+
 The objective of this project is to implement customer segmentation using machine learning, specifically using the K-means clustering algorithm. The goal is to divide a supermarket's customer base into distinct groups based on their characteristics such as age, annual income, and spending score. This segmentation helps businesses target their marketing strategies and improve customer retention by offering personalized deals and improving customer service.
 
 ## Problem Statement
